@@ -188,6 +188,15 @@
         "burn": "12892",
         "discovery": "8025"
       }
+    },
+    {
+      "label": "1.5.3 with no lazy init",
+      "pr": "https://github.com/tact-lang/tact/pull/1985",
+      "gas": {
+        "transfer": "17163",
+        "burn": "12652",
+        "discovery": "7899"
+      }
     }
   ]
 }
